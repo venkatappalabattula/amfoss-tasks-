@@ -23,7 +23,7 @@ This is a repository to keep track of my amfoss tasks.
    ## Step 5:Go through the installation
                  go through the installation , do not forget to click on the dual boot option rather than single drive installation                        option.<br/>
                  after completing the installation , you can remove the USB and reboot , now you'll see the GRUB Boot loader there you can select either you want to boot to Ubuntu or the OS you were using earlier .
-# ERRORS YOU MIGHT GET:
+## ERRORS YOU MIGHT GET:
 1.The most common error is that while doing Step 4 your PC's might continue to boot to the same Operating system used earlier<br/> 
 
  FIX: Google youre systems make and model for bios key (mostly it eill be f9, f10, or esc)<br/><br/>
@@ -31,9 +31,15 @@ This is a repository to keep track of my amfoss tasks.
  
 2. Other errors people do is that they click on wipe drive and install Ubuntu rather than install Ubuntu alongside Windows<br/>
 
- FIX: For dual booting click on "Install Ubuntu alongside Windows"<br/>
+ FIX: For dual boot Star all the amFOSS repositoriesing click on "Install Ubuntu alongside Windows"<br/>
  
 3.PC not booting after restarting for first time :<br/>
 
  FIX:this occurs when the boot properties are set to USB first rather than hard drive , you could remove the hard drive you've forgot to      remove or you can change youre boot sequence by entering the BIOS and putting the Hard drive in the first .<br/>
+ # test 1- Star all the amFOSS repositories
+ I used this [link](https://github.com/amfoss/star-me) and followed the steps from that website .<br/>
+ NOTE: Google Chrome is required <br/>
+ After starring everything the scren will look something like  [this](https://drive.google.com/file/d/1J_9AtG7wUbjaAoq81PfyN_KkbbDFT1b2/view?usp=sharing).<br/>
+
+    
  
