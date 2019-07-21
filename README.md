@@ -37,8 +37,8 @@ This is a repository to keep track of my amfoss tasks.
 
  FIX:this occurs when the boot properties are set to USB first rather than hard drive , you could remove the hard drive you've forgot to      remove or you can change youre boot sequence by entering the BIOS and putting the Hard drive in the first .
  # test 1- Star all the amFOSS repositories
- I used this [link](https://github.com/amfoss/star-me) and followed the steps from that website .
- NOTE: Google Chrome is required 
+ I used this [link](https://github.com/amfoss/star-me) and followed the steps from that website .<br/>
+ NOTE: Google Chrome is required <br/>
  After starring everything the scren will look something like  [this](https://drive.google.com/file/d/1J_9AtG7wUbjaAoq81PfyN_KkbbDFT1b2/view?usp=sharing).
 
     
