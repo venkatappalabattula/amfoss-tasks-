@@ -21,7 +21,7 @@ This is a repository to keep track of my amfoss tasks.
                  Then click on Boot via USB 
                  click on install Ubuntu 
    ## Step 5:Go through the installation
-                 go through the installation , do not forget to click on the dual boot option rather than single drive installation                        option.
+                 go through the installation , do not forget to click on the dual boot option rather than single drive installation option.
                  after completing the installation , you can remove the USB and reboot , now you'll see the GRUB Boot loader there you can select either you want to boot to Ubuntu or the OS you were using earlier .
 ## ERRORS YOU MIGHT GET:
 1.The most common error is that while doing Step 4 your PC's might continue to boot to the same Operating system used earlier 
