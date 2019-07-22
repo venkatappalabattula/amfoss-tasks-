@@ -11,7 +11,7 @@ This is a repository to keep track of my amfoss tasks.
   2.  Open Rufus:<br/>
                 select the downloaded .ISO  file .<br/>
                 Select the USB drive as Device <br/> 
-                Select partition scheme as FAT 32 <br/> 
+                Select File system as FAT 32 <br/> 
                 Click on Start <br/>
                 once its done , you're USB is ready to be directly booted with Ubuntu <br/>
 ## Step 4: Restart your PC 
